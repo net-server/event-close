@@ -1,0 +1,20 @@
+{
+  "name": "net-server-event-close",
+  "version": "0.0.0",
+  "description": "a net.Server event handler for the close event",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "net.Server event",
+    "net.Server event close"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/net-server/event-close.git"
+  },
+  "bugs": {
+    "url": "https://github.com/net-server/event-close/issues"
+  },
+  "homepage": "https://github.com/net-server/event-close#readme"
+}
